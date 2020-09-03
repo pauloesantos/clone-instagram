@@ -1,5 +1,5 @@
 # Clone da página de login do Instagram com Html5 e CSS3, usando Flexbox.
- Projeto proposto no curso da *Digital Innovation One* - _DIO_
+ ## Projeto proposto no Bootcamp JavaScript Game Developer da *Digital Innovation One* - _DIO_
 
  ### Os requisitos são:
 
@@ -8,4 +8,4 @@
 
  ## 🚀 Let's code! 🚀
 
-  ## [Incricões nos cursos aqui!](https://digitalinnovation.one/sign-up?ref=TO2EHEFMGH)
+  ## [Incricões nos Cursos e Bootcamps aqui!](https://digitalinnovation.one/sign-up?ref=TO2EHEFMGH)
